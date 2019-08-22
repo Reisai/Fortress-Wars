@@ -1,0 +1,30 @@
+[
+  {
+    "internalOreName": "embers:ore_copper",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/malachite"
+  },
+  {
+    "internalOreName": "embers:ore_aluminum",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/bauxite"
+  },
+  {
+    "internalOreName": "embers:ore_lead",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/galena"
+  },
+  {
+    "internalOreName": "embers:ore_silver",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/galena"
+  },
+  {
+    "internalOreName": "embers:ore_nickel",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/limonite"
+  },
+  {
+    "internalOreName": "embers:ore_tin",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/cassiterite"
+  },
+  {
+    "internalOreName": "embers:ore_quartz",
+    "overlay": "undergroundbiomes:blocks/overlays/geolosys/quartz"
+  }
+]

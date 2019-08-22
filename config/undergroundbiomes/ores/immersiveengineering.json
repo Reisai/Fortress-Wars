@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "immersiveengineering:ore",
+    "meta": 5,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/uranium",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]

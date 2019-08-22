@@ -1,0 +1,12 @@
+[
+  {
+    "internalOreName": "libvulpes:ore0",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/taiga/dilithium"
+  },
+  {
+    "internalOreName": "libvulpes:ore0",
+    "meta": 8,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/rutile"
+  }
+]
